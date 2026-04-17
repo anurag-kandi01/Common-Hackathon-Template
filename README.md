@@ -10,7 +10,7 @@ After forking, fill in your team details below in your fork's README
 
 - **Team Name:Graident Desserter
 - **Team Lead:Kandi Anurag
-- **Team Members:1
+- **Team Members:3
   - Member 1:Kandi Anurag  
   - Member 2:Zain Hassan 
   - Member 3:Abdullah Md Khan
