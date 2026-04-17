@@ -8,14 +8,13 @@ Title of your repository shall be : team-(your team name)
 
 After forking, fill in your team details below in your fork's README
 
-- **Team Name:Mahreen&sumaiya
-- **Team Lead:Mahreen
+- **Team Name:Graident Desserter
+- **Team Lead:Kandi Anurag
 - **Team Members:1
-  - Member 1:sumaiya
-  - Member 2:
-  - Member 3:
-  - Member 4:
-
+  - Member 1:Kandi Anurag  
+  - Member 2:Zain Hassan 
+  - Member 3:Abdullah Md Khan
+    
 ---
 
 
@@ -46,8 +45,12 @@ git push origin main
 
 ## Problem Statement
 
-[Write your problem statement here]
-
+8. FestFlow: AI Agent for Event and Fest Management
+Problem Statement:
+College fests and events are a coordination nightmare. Volunteers get assigned over WhatsApp,
+last-minute dropouts throw entire schedules off, and coordinators spend more time firefighting
+logistics than actually running the event. There is no single system that handles registrations,
+volunteer coordination, and real-time rescheduling together.
 ---
 
 ## Submission Guidelines
@@ -73,4 +76,4 @@ For any queries, reach out to us at:
 
 ---
 
-> Good luck to all participating teams! 
+> Good luck to all ! 
