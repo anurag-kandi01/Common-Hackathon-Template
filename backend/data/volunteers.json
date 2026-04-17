@@ -1,0 +1,50 @@
+[
+  {
+    "id": "VOL-001",
+    "name": "Megnath Marav",
+    "department": "CSE",
+    "year": 3,
+    "primarySkills": ["Crowd Management", "Registration Ops"],
+    "secondarySkills": ["Comms", "Logistics"],
+    "availability": { "currentStatus": "Available", "availableSlots": ["16:00-18:00", "17:00-20:00"] },
+    "rating": 4.5,
+    "reliabilityScore": 93,
+    "attendanceRate": 94,
+    "responseSpeedMinutes": 4,
+    "noShowCount": 0,
+    "fatigueScore": 28,
+    "currentZone": "Registration"
+  },
+  {
+    "id": "VOL-002",
+    "name": "Rohan Mehta",
+    "department": "ECE",
+    "year": 2,
+    "primarySkills": ["Hospitality", "Comms"],
+    "secondarySkills": ["Crowd Management", "Logistics"],
+    "availability": { "currentStatus": "Limited", "availableSlots": ["16:00-18:00"] },
+    "rating": 4.1,
+    "reliabilityScore": 84,
+    "attendanceRate": 88,
+    "responseSpeedMinutes": 7,
+    "noShowCount": 1,
+    "fatigueScore": 36,
+    "currentZone": "Hospitality"
+  },
+  {
+    "id": "VOL-003",
+    "name": "Neha Verma",
+    "department": "Design",
+    "year": 4,
+    "primarySkills": ["AV Support", "Logistics"],
+    "secondarySkills": ["Registration Ops", "Comms"],
+    "availability": { "currentStatus": "Available", "availableSlots": ["17:00-20:00", "18:00-20:00"] },
+    "rating": 4.3,
+    "reliabilityScore": 90,
+    "attendanceRate": 91,
+    "responseSpeedMinutes": 5,
+    "noShowCount": 0,
+    "fatigueScore": 31,
+    "currentZone": "Main Stage"
+  }
+]
